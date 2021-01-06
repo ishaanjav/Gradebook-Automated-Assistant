@@ -16,3 +16,18 @@ A hands-free, automated program that logins into gradebook, displays your grades
 - **`home`:** Goes to homepage.
 - **`<class_command`>:** Goes to the webpage for that specific class. *class_commands* are created in `setup.py` in the Setup process. 
 - **`close`:** Exits the program and closes the browser.
+
+-----
+## Note
+Found this repository useful? Give it a star!
+
+Check out my similar automation repositories:
+- [**Automated GitHub File Uploader**](https://github.com/ishaanjav/GitHub-Automated-File-Uploader): Tool to automatically upload files in a non-git repository to a specified repository. *(You don't have to be in the git repository to upload files; you can do it from any directory)*
+- [**Codeforces Autosubmitter**](https://github.com/ishaanjav/Codeforces-Auto-Submitter): Automatic submission of solutions for Codeforces problems. All with a single command.
+
+-----
+
+## Questions
+If you have questions or run into errors, email me at ijapps101@gmail.com
+
+You can also contact me through my [**website**](https://ij-apps.wixsite.com/android/contact-us)
