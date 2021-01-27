@@ -39,7 +39,7 @@ btn.click()
 
 at = True
 classes = setup.class_commands
-class_grades = [("/html/body/form/section/div[2]/div/div[2]/div/div/div["+str(i)+"]/div[3]/div/a[2]/div[1]/div/div") for i in range(2, 9)]
+class_grades = [("/html/body/form/section/div[2]/div/div[2]/div/div/div["+str(i)+"]/div[3]/div[1]/a[2]/div[1]/div/div") for i in range(1, 8)]
 
 def prGreen(skk): print("\033[92m {}\033[00m" .format(skk)) 
 def prYellow(skk): print("\033[1;33m{}\033[00m" .format(skk)) 
