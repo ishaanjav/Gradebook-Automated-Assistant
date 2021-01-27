@@ -1,4 +1,5 @@
 '''
+Enter your username and password for the gradebook on lines 7 and 8.
 Ex: 
 username = "john.doe.1"
 password = "password123"
