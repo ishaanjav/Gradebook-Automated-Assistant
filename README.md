@@ -1,12 +1,20 @@
 # Gradebook Automated Assistant
 A hands-free, automated program that logins into gradebook, displays your grades, sorts them, and more all with a single command!
 
+<p align="center">
+<img src="https://github.com/ishaanjav/Gradebook-Automated-Assistant/blob/master/demo.gif" width="97%"/>
+</p>
+
+<!-- ![Demo](https://github.com/ishaanjav/Gradebook-Automated-Assistant/blob/master/demo.gif) -->
+
 ## Setup
 1. Download or fork this repository.
 2. Inside the project directory, in terminal run `pip install -r requirements.txt`.
 3. Go to [`setup.py`](https://github.com/ishaanjav/Gradebook-Automated-Assistant/blob/master/setup.py) and fill in the required information
 
 **You're ready to start using it!**
+
+*Optional: Use the Bash script so that you can run the program from any folder*
 
 ## Usage
 1. Just run `grades.py` and that's it! Below are a list of commands.
